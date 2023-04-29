@@ -1,0 +1,2 @@
+ShaderStack resize function
+ShaderPass parameter checking

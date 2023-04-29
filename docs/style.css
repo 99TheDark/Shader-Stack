@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap");
+
+* {
+    box-sizing: border-box;
+}
+
+#canvas {
+    position: absolute;
+    inset: 0px;
+    width: 100%;
+    height: 100%;
+}
+
+#fps {
+    position: absolute;
+    top: 8px;
+    left: 55px;
+    color: white;
+    font-size: 30px;
+    font-family: "Open Sans";
+}
